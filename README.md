@@ -8,10 +8,14 @@ Frontend · Backend · Database · Game Development
 
 </div>
 
+---
+
 ## About
 
 웹, 애플리케이션, 게임 개발을 통해
 사용자 경험과 시스템 완성도를 함께 추구합니다.
+
+---
 
 ## Tech Stack
 
