@@ -2,13 +2,11 @@
 
 # 🌑 그믐
 
-> 기능을 넘어 경험을 설계합니다.
+기능을 넘어 경험을 설계합니다.
 
 Frontend · Backend · Database · Game Development
 
 </div>
-
----
 
 ## About
 
