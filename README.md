@@ -6,11 +6,6 @@
 
 Frontend · Database · Game Development
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=u3moon&show_icons=true&hide_border=true&hide_title=true&theme=transparent" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u3moon&layout=compact&hide_border=true&theme=transparent" height="165" />
-
 </div>
 
 ---
