@@ -8,7 +8,7 @@ Frontend · Database · Game Development
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=u3moon&show_icons=true&hide_border=true&theme=transparent" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=u3moon&show_icons=true&hide_border=true&hide_title=true&theme=transparent" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u3moon&layout=compact&hide_border=true&theme=transparent" height="165" />
 
 </div>
@@ -28,7 +28,7 @@ Frontend · Database · Game Development
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,vite,tailwind" />
 </p>
 
 ### Languages
@@ -49,27 +49,3 @@ Frontend · Database · Game Development
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
-
----
-
-## Current Interests
-
-- Frontend Development
-- UI / UX
-- System Architecture
-- Database Design
-- Game Development
-
----
-
-<div align="center">
-
-HTML · CSS · JavaScript · TypeScript · React · Vite
-
-Python · Lua
-
-PostgreSQL · Oracle
-
-Git · GitHub
-
-</div>
